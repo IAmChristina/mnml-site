@@ -13,7 +13,7 @@ body{
 .ocean-pic{
   /* padding: 2%; */
   margin: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: courier;
   font-size: 1rem;
   line-height: 1.5rem;
   letter-spacing: .05rem;
@@ -50,7 +50,7 @@ header{
 
 .logo{
   text-align: center;
-  border: 1px white solid;
+  border: 1.5px white solid;
   border-radius: 100%;
   padding: 3% 4%;
   font-size: 1.8rem;
@@ -61,7 +61,7 @@ header{
 
 nav{
   margin: 1% 0 3% 0;
-  border-bottom: 1px solid white;
+  border-bottom: 1.5px solid white;
   padding-bottom: 1%
 }
 
@@ -73,9 +73,10 @@ nav{
 }
 
 .button{
-  font-family: 'Lato', sans-serif;
+  font-family: courier;
   padding: 2% 5%;
   font-size: 1rem;
+  letter-spacing: .05rem;
   margin: 8%;
   background-color: yellow;
   box-shadow: -5px 5px black;
